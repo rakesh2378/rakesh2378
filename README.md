@@ -3,19 +3,19 @@
 
 🔭 I’m currently working on
 
-Full-stack and backend projects using Java, Python, SQL
+Full-stack and backend projects using Java,Python,C/C++,HTML/CSS,SQL/Nosql,Golang
 
-Practical cybersecurity labs (phishing analysis, identity theft prevention)
+Practical cybersecurity labs(phishing analysis,identity theft prevention)
 
 Machine-learning–based academic projects
 
-Automation workflows using n8n for alerts, notifications, and routine backend tasks
+Automation workflows using n8n for alerts,notifications,and routine backend tasks
 
 👯 I’m looking to collaborate on
 
-Open-source projects (Java, Python, backend systems)
+Open-source projects (Java,Python,backend systems)
 
-Beginner-friendly cybersecurity, DevOps, or automation tools
+Beginner-friendly cybersecurity,DevOps,automation tools
 
 Data-driven or ML projects with real-world use cases
 
@@ -25,23 +25,23 @@ System design fundamentals
 
 Advanced backend architecture
 
-Code quality, testing, and performance optimization
+Code quality,testing,and performance optimization
 
-🌱 I’m currently learning
+🌱 Skills & Knowledge
 
 Data Structures & Algorithms
 
 Linux fundamentals and command-line tooling
 
-DevOps basics (CI/CD concepts, containers, automation)
+DevOps basics (CI/CD concepts,containers,automation)
 
 Secure coding practices
 
-REST APIs, Git workflows, and deployment basics
+REST APIs,Git workflows,and deployment basics
 
 💬 Ask me about
 
-Java & Python fundamentals
+Java,Python,Linux,DevOps,Golang,Datastructure,HTML/CSS fundamentals
 
 SQL and database concepts
 
